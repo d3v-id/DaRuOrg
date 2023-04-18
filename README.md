@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DaRuOrg
+👋 Hi, I’m @DaRuOrg
 
 
-- 📫 How to reach me ...
+📫 How to reach me ...
 * Discord: DaRu#7264
 
 <!---
