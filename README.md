@@ -2,4 +2,4 @@
 
 
 📫 How to reach me ...
-* Discord: DaRu#7264
+* Discord: d3v.id
