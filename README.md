@@ -1,5 +1,5 @@
-👋 Heey
+👋 Hey
 
 
-📫 How to reach me ...
-* Discord: d3v.id
+📫 Discord: d3v.id
+
