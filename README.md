@@ -1,5 +1,6 @@
 👋 Hey
 
 
-📫 Discord: d3v.id
+📫 Discord: `d3v.id`
+* E-Mail: `david@rueffreck.de`
 
